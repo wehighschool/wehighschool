@@ -1,0 +1,72 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+@import url(https://fonts.googleapis.com/css?family=Oswald);
+
+
+
+body{
+
+  background-color: rgb(255, 134, 6);
+  color: white;
+  margin:0 auto;
+}
+h1{
+  font-family: "Lobster", cursive;
+  font-size: 50px;
+  text-align: center;
+  margin-bottom: 100px;
+}
+h2{
+  margin-left: 70px;
+  margin-bottom: 30px;
+  font-size: 40px;
+  font-family: "Oswald",cursive;
+}
+
+h3{
+  font-family: "Oswald",cursive;
+  font-size: 30px;
+}
+
+li img{
+  margin-top: 40px;
+  float:left;
+  width: 150px;
+  height: 150px;
+}
+
+ul{
+  margin-left: 30px;
+  margin-bottom: 30px;
+}
+li {
+  color: #fff;
+  list-style: none;
+  margin-bottom: 30px;
+}
+
+
+
+a:link, a:active, a:visited{
+  margin-left: 20px;
+  text-decoration: none;
+  color: #fff;
+  transition: 50ms;
+}
+a:hover{
+  color:#bdc3c7;
+}
+
+
+.apply{
+  margin-left: 40px;
+  font-size: 13px;
+  font-style: italic;
+  color: #34495e;
+}
+
+
+.info p {
+  margin-left: 170px;
+  text-align: left;
+  font-size: 20px;
+}
