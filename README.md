@@ -1,3 +1,3 @@
-# wehighschool
+# wehighschool.github.io
 
 vrng
